@@ -1,0 +1,4 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://stash-dev:hello-stash@3.0.124.192:27017/stash_demo?authSource=admin&connectTimeoutMS=300000&maxPoolSize=2000&minPoolSize=0&maxIdleTimeMS=900000&readPreference=primary&directConnection=true&ssl=false
