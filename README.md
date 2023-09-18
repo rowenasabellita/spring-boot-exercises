@@ -1,5 +1,7 @@
 # Spring-Boot-Exercises
 
+![swagger](swagger.png)
+
 Objectives
 - Learn how to create new Spring Boot Project
 - Learn how to create simple CRU(D) for Todo with MongoDB
@@ -10,3 +12,4 @@ Acceptance Criteria:
 
 Dev Notes:
 - Delete the collection after accepted
+
