@@ -23,4 +23,20 @@ public class Todo {
         this.title = title;
         this.isCompleted = isCompleted;
     }
+
+    public void setIsCompleted(boolean isCompleted) {
+        this.isCompleted = isCompleted;
+    }
+
+    public boolean getIsCompleted() {
+        return this.isCompleted;
+    }
+
+    public void setTodoId(String id) {
+        this.id = id;
+    }
+
+    public String getTodoId() {
+        return this.id;
+    }
 }

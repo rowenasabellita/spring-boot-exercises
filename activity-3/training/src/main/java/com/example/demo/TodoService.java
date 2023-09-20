@@ -23,4 +23,8 @@ public class TodoService {
         return repository.findAll();
     }
 
+    public void deleteTodo(String id) {
+        repository.deleteById(id);
+    }
+
 }
